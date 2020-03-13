@@ -1,0 +1,16 @@
+C:\ProgettiVS\Bubble\BubbleResource\bin\Debug\BubbleResource.dll
+C:\ProgettiVS\Bubble\BubbleResource\bin\Debug\BubbleResource.pdb
+C:\ProgettiVS\Bubble\BubbleResource\bin\Debug\BubbleResource.BubbleResource.apk
+C:\ProgettiVS\Bubble\BubbleResource\bin\Debug\BubbleResource.BubbleResource-Signed.apk
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\BubbleResource.nuget.stamp
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\libraryimports.cache.stamp
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\res.flag
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\BubbleResource.csproj.CoreCompileInputs.cache
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\BubbleResource.dll
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\BubbleResource.pdb
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\android\bin\BubbleResource.BubbleResource.apk
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\res\values\strings.xml
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\R.cs.flag
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\R.txt
+C:\ProgettiVS\Bubble\BubbleResource\obj\Debug\81\uploadflags.txt

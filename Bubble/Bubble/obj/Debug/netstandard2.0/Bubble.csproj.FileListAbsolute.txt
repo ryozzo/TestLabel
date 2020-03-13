@@ -1,0 +1,17 @@
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\bin\Debug\netstandard2.0\Bubble.deps.json
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\bin\Debug\netstandard2.0\Bubble.dll
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\bin\Debug\netstandard2.0\Bubble.pdb
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Bubble.csprojAssemblyReference.cache
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Views\MenuIniziale.xaml.g.cs
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Bubble.csproj.CoreCompileInputs.cache
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Bubble.AssemblyInfoInputs.cache
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Bubble.AssemblyInfo.cs
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Bubble.csproj.CopyComplete
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Bubble.dll
+C:\ProgettiVS\BubbleLight\Bubble\Bubble\obj\Debug\netstandard2.0\Bubble.pdb

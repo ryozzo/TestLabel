@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SDR.Login">
+    <ContentPage.Content>
+        <StackLayout Padding="5,100,5,5">
+            <Label x:Name="lblLoader" Text="Attendi mentre viene caricata la lista utenti" IsVisible="False"></Label>
+            <ActivityIndicator x:Name="loader"  Color="Red" IsVisible="False" IsRunning="False"  />
+
+            <Picker x:Name="picker" 
+        Title="Seleziona il tuo utente" 
+        ItemsSource="{Binding Utenti}"
+        ItemDisplayBinding="{Binding NomeUtente}"
+        SelectedItem="{Binding CodiceUtente}"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="btnAvanti" Text="Avanti"  Clicked="OnBtnAvantiClick" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="0" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2">
+                <Label Text="Test" VerticalOptions="Center" />
+                <StackLayout Orientation="Horizontal" Spacing="0" HorizontalOptions="EndAndExpand">
+                    <Switch  x:Name="swTest" IsToggled="false" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
